@@ -14,8 +14,8 @@ root.title("Weißes Fenster")
 root.configure(bg="white")
 
 # Schließkästchen hinzufügen
-close_button = tk.Button(root, text="Schließen", command=on_close)
-close_button.pack(side=tk.BOTTOM, pady=10)
+#close_button = tk.Button(root, text="Schließen", command=on_close)
+#close_button.pack(side=tk.BOTTOM, pady=10)
 
 # Andere UI-Elemente oder Funktionen können hier hinzugefügt werden.
 
